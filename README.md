@@ -51,7 +51,6 @@ Las Primeras versiones, fueron realizadas en #Pseint , debido a que fue el pseud
 
 # Equipo de trabajo:
 
- - [Alexis Sanchez](https://github.com/Alexsanchez84)
  - [Angel Escobar](https://github.com/angesc2022)
  - [Denise Germiniani](https://github.com/DenuArg)
  - [Gabriel Beltrando](https://github.com/Gabibelt)
